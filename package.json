@@ -1,10 +1,13 @@
 {
-  "name": "1QzXHJGwdMEdK1hOi1LD5B4UM75ZuhFAFrXDH00R43hFRRiBaM",
+  "name": "หวยย้อนหลัง ดูยังไง - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.46",
   "description": "หวยย้อนหลัง ชุดแนวทางเลขท้าย ว่า หวยย้อนหลัง ที่ Lotto เว็บหวยออนไลน์ อันดับหนึ่ง 3 ตัว พร้อมจับหมุนกลับมีดังนี้519-591-159-195-951-915192-129-921-912-291-",
   "repository": "https://github.com/gullibles-02/outdoor-12",
-  "keywords": ["หวยย้อนหลัง","หวยย้อนหลัง Lotto"],
+  "keywords": [
+    "หวยย้อนหลัง",
+    "หวยย้อนหลัง Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
