@@ -1,10 +1,13 @@
 {
-  "name": "B6AwaYgPcHpiq1yyNhwZBa6NW0b48SpvFLXMySTDMXTPpYJwSP",
+  "name": "สถิติหวยย้อนหลัง2ปี ดูที่ไหน - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.38",
   "description": "สถิติหวยย้อนหลัง2ปี ได้แนวทางเลขเด็ดจากเจ๊นุ๊กกันแล้ว ถึง สถิติหวยย้อนหลัง2ปี Ruay รวย หวยออนไลน์ มีหวยทุกชนิด อย่าลืมติดตามเว็บ ซื้อหวยออนไลน์ พร้อมกับสมั",
   "repository": "https://github.com/gullibles-02/outdoor-12",
-  "keywords": ["สถิติหวยย้อนหลัง2ปี","สถิติหวยย้อนหลัง2ปี Ruay"],
+  "keywords": [
+    "สถิติหวยย้อนหลัง2ปี",
+    "สถิติหวยย้อนหลัง2ปี Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
