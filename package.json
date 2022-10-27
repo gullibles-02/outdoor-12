@@ -1,10 +1,20 @@
 {
-  "name": "ZudnqQQpBwc9rk6yMW5qQBGDvv1Dh8GqMgbPp5HPJ6k0N9z6Ew",
+  "name": "ruay com จ่ายจริงไหม pantip เลือกยังไง - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.6",
   "description": "Ruay COM จ่ายจริงไหม pantip สลากกินแบ่งรัฐบาลไทย เนื่องจาก Ruay COM จ่ายจริงไหม pantip ที่ Huay Happy เว็บหวยออนไลน์ อันดับหนึ่ง จะมีราคาขั้นต่ำและมาตรฐานอ",
   "repository": "https://github.com/gullibles-02/outdoor-12",
-  "keywords": ["RUAY COM จ่ายจริงไหม PANTIP","RUAY","COM","จ่ายจริงไหม","PANTIP","RUAY Huay Happy","COM Huay Happy","จ่ายจริงไหม Huay Happy","PANTIP Huay Happy"],
+  "keywords": [
+    "RUAY COM จ่ายจริงไหม PANTIP",
+    "RUAY",
+    "COM",
+    "จ่ายจริงไหม",
+    "PANTIP",
+    "RUAY Huay Happy",
+    "COM Huay Happy",
+    "จ่ายจริงไหม Huay Happy",
+    "PANTIP Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
