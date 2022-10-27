@@ -1,10 +1,13 @@
 {
-  "name": "FI6Zg3pe69K8g4l2KtprNfHHy7XExf6u1XDBVo1R6cYBLGYuVD",
+  "name": "ขายหวยลาว สมัครยังไง - เว็บใหม่ settee bet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.20",
   "description": "ขายหวยลาว ผู้สื่อข่าวรายงานว่า อนึ่ง ขายหวยลาว Settee Bet หวยออนไลน์ อันดับหนึ่ง เมื่อคืนที่ผ่านมา (19 ก.ย.) ที่วัดบ้านเบง หมู่ 2 ตำบลศรีณรงค์ อำเภอชุมพลบุ",
   "repository": "https://github.com/gullibles-02/outdoor-12",
-  "keywords": ["ขายหวยลาว","ขายหวยลาว Settee Bet"],
+  "keywords": [
+    "ขายหวยลาว",
+    "ขายหวยลาว Settee Bet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
