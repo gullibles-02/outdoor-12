@@ -1,0 +1,12 @@
+{
+  "name": "C8RNQGfd2K7P4veGzw7q9zbKwGDqOjV9beH43JEgSquAUahY8F",
+  "theme": "syntax",
+  "version": "1.0.4",
+  "description": "สถิติหวยออกปี 64 65 ผลหวยหุ้นเยอรมัน แม้ สถิติหวยออกปี 64 65 Kerry899 เคอร์รี่899 หวยออนไลน์ มีหวยทุกชนิด 020565 ตรวจผลการออกรางวัลหวยหุ้นเยอรมัน งวดวันที่",
+  "repository": "https://github.com/gullibles-02/outdoor-12",
+  "keywords": ["สถิติหวยออกปี 64 65","สถิติหวยออกปี","64","65","สถิติหวยออกปี Kerry899","64 Kerry899","65 Kerry899"],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
