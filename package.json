@@ -1,10 +1,18 @@
 {
-  "name": "vKuXot7icMl5aBt0fAGOnvLFVoKWsGp7vybH5leVNlq1znWace",
+  "name": "เว็บมวยไทย 7 สี คืออะไร - เว็บใหม่ riches888 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.41",
   "description": "เว็บมวยไทย 7 สี หมายเหตุ เนื่องแต่ เว็บมวยไทย 7 สี ที่ Riches888 เว็บพนัน อันดับหนึ่ง A คือ ไพ่ที่มีแต้มสูงสุด และ เว็บมวยไทย 7 สี 2 คือ ไพ่ที่มีแต้มต่ำสุด",
   "repository": "https://github.com/gullibles-02/outdoor-12",
-  "keywords": ["เว็บมวยไทย 7 สี","เว็บมวยไทย","7","สี","เว็บมวยไทย Riches888","7 Riches888","สี Riches888"],
+  "keywords": [
+    "เว็บมวยไทย 7 สี",
+    "เว็บมวยไทย",
+    "7",
+    "สี",
+    "เว็บมวยไทย Riches888",
+    "7 Riches888",
+    "สี Riches888"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
