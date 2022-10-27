@@ -1,12 +1,10 @@
 {
-  "name": "คำนวณ การพนัน ดูที่ไหน - เว็บใหม่ gclub-royal 2023 ล่าสุด",
+  "name": "enOwl1PEWNszSdM8f0QtKRKyTb6HsMsRbjH6pfOiEYgmLBRAkN",
   "theme": "syntax",
   "version": "1.0.30",
   "description": "คำนวณ การพนัน สารบัญ หาก คำนวณ การพนัน ที่ Gclub-royal เว็บพนัน มีเกมพนันทุกชนิด",
   "repository": "https://github.com/gullibles-02/outdoor-12",
-  "keywords": [
-    null
-  ],
+  "keywords": [null],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
