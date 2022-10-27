@@ -1,13 +1,10 @@
 {
-  "name": "หวยดี เล่นยังไง - เว็บใหม่ thailotto 2023 ล่าสุด",
+  "name": "CRHwaX7JpjfoiP9qs4KxzDPtCUC2lFCiCWCeWMBQmnZhXXtwIg",
   "theme": "syntax",
   "version": "1.0.36",
   "description": "หวยดี โดยหวยฮานอยที่เว็บไซต์ ก่อน หวยดี Thailotto หวยออนไลน์ อันดับหนึ่ง Mawinbet ให้บริการอยู่นั้นจะมีอยู่ 2 ตัวด้วยกัน คือ หวยฮานอยธรรมดาและหวยฮานอยVip ห",
   "repository": "https://github.com/gullibles-02/outdoor-12",
-  "keywords": [
-    "หวยดี",
-    "หวยดี Thailotto"
-  ],
+  "keywords": ["หวยดี","หวยดี Thailotto"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
