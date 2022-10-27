@@ -1,18 +1,10 @@
 {
-  "name": "หุ้น egx30 ออกกี่โมง เลือกยังไง - เว็บใหม่ kerry899 2023 ล่าสุด",
+  "name": "8S6QK3fIfdCfQcLiCmMdiLNq4UBEpmuuGfVesLdJr4sAa6sNmJ",
   "theme": "syntax",
   "version": "1.0.52",
   "description": "หุ้น egx30 ออกกี่โมง ชุดเด่น เพื่อ หุ้น egx30 ออกกี่โมง Kerry899 เคอร์รี่899 หวยออนไลน์ มีหวยทุกชนิด 5 ได้แนวทางเลขท้าย 3 ตัว และ 2 ตัว ดังนี้145-154-451-4",
   "repository": "https://github.com/gullibles-02/outdoor-12",
-  "keywords": [
-    "หุ้น EGX30 ออกกี่โมง",
-    "หุ้น",
-    "EGX30",
-    "ออกกี่โมง",
-    "หุ้น Kerry899",
-    "EGX30 Kerry899",
-    "ออกกี่โมง Kerry899"
-  ],
+  "keywords": ["หุ้น EGX30 ออกกี่โมง","หุ้น","EGX30","ออกกี่โมง","หุ้น Kerry899","EGX30 Kerry899","ออกกี่โมง Kerry899"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
