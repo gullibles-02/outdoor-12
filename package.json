@@ -1,10 +1,13 @@
 {
-  "name": "rHwAj2Eit1TQRz9trW5vdyKpZetHPo9pPRF7QUGExizXGp9czo",
+  "name": "วิธีดูหุ้นนิเคอิบ่าย เล่นที่ไหน - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.70",
   "description": "วิธีดูหุ้นนิเคอิบ่าย ซื้อหวยหุ้นดาวโจนส์ทำยังไง อย่างไรก็ดี วิธีดูหุ้นนิเคอิบ่าย Lotto หวยออนไลน์ อันดับหนึ่ง สอนแทงหวยหุ้นดาวโจนส์ง่ายๆไม่กี่ขั้นตอนหลังจา",
   "repository": "https://github.com/gullibles-02/outdoor-12",
-  "keywords": ["วิธีดูหุ้นนิเคอิบ่าย","วิธีดูหุ้นนิเคอิบ่าย Lotto"],
+  "keywords": [
+    "วิธีดูหุ้นนิเคอิบ่าย",
+    "วิธีดูหุ้นนิเคอิบ่าย Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
