@@ -1,10 +1,18 @@
 {
-  "name": "cbddgjPJcdXEF5gIvbsOq8PDSALAAwUpw3QAVEjv0VYOrlBoGB",
+  "name": "สูตร คำนวณ หวยโบราณ ดูที่ไหน - เว็บใหม่ choke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.63",
   "description": "สูตร คำนวณ หวยโบราณ สูตรแบบคูณแล้วตัดตัวเลข เพื่อ สูตร คำนวณ หวยโบราณ Choke หวยออนไลน์ อันดับหนึ่ง เป็นอีกหนึ่งทางเลือกที่เซียนหวยมักจะนำมาใช้ในการวิ่ง 2 ต",
   "repository": "https://github.com/gullibles-02/outdoor-12",
-  "keywords": ["สูตร คำนวณ หวยโบราณ","สูตร","คำนวณ","หวยโบราณ","สูตร Choke","คำนวณ Choke","หวยโบราณ Choke"],
+  "keywords": [
+    "สูตร คำนวณ หวยโบราณ",
+    "สูตร",
+    "คำนวณ",
+    "หวยโบราณ",
+    "สูตร Choke",
+    "คำนวณ Choke",
+    "หวยโบราณ Choke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
